@@ -1,2 +1,2 @@
 # python-examples
-Here is all code example of pythonn
+Here is all code example of python
